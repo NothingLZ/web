@@ -1,0 +1,32 @@
+html,body,.parent{height:100%;overflow:auto;width: 1366px;}
+	body{
+		background-color: #00B2EE;
+		
+	}
+	.top{
+		position:absolute;top:0px;left:100px;right:100px;height:300px;
+	
+	}
+	.left {
+		position:absolute;top:260px;left:100px;right:0px;width: 250
+
+	}
+	
+	.right{
+		position:absolute;left:350px;top:300px;bottom:0px;right:100px;
+		background:red;
+		overflow: auto;
+		
+	}
+	.div-bar ul {
+		list-style-type: none;
+		float: left;
+		font-family: '楷体';
+
+
+	}
+	.div-bar  {
+		background-image: url("img/nav.jpg");
+	}
+	
+	
